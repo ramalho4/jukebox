@@ -22,6 +22,12 @@ Usage:
 
     python gesture_jukebox.py
 
-
+Thumbs Up: Play a random song
+Thumbs Down: Stop Playback
+Open Palm: Pause/Resume
+Closed Fist: Stop Playback
+Point Up: Volume +10
+ILoveYou: Volume -10 (pointer + pinky + thumb up)
+Peace Sign: Shuffle Song
 
 
