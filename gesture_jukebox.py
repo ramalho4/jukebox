@@ -14,7 +14,7 @@ from urllib.parse import urlencode
 SERVER_IP   = "http://10.42.0.1"
 SERVER_PORT = 4533
 USER        = "christopher"
-PASSWORD    = "72555"
+PASSWORD    = "password"
 
 conn = libsonic.Connection(
     baseUrl=SERVER_IP,
