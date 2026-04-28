@@ -10,7 +10,7 @@ Python Packages:
 
     pip install mediapipe opencv-python numpy py-sonic
 
-If you have issues with installing pip packages, I am using a python environment with python version Python 3.12.8
+If you have issues with installing pip packages, use a python environment with python version Python 3.12.8
 
 The gesture recognizer model is incuded in this github as gesture_recognizer.task
 
